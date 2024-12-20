@@ -1,6 +1,8 @@
-# Hello
-*I'm just an amateur*
+# Contact Information
 
-<img src="https://api.vaunt.dev/v1/github/entities/SatoX69/contributions?format=svg&private=true" width="500" title="Includes public contributions"/>
+- **Email**: [mdjsusbinsus@gmail.com](mailto:mdjsusbinsus@gmail.com)  
+- **Telegram**: [t.me/Jsusbin](https://t.me/Jsusbin)  
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SatoX69&layout=compact&langs_count=10&theme=radical)](https://github.com/SatoX69)
+---
+
+![Contribution Stats](https://api.vaunt.dev/v1/github/entities/SatoX69/contributions?format=svg&private=true)
